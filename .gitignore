@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Keys
+gkey = "AIzaSyBdZoewJlWSy7qW7ltegansMuYaAjRsc8w"
+api_key = "140b1185794782ffaea9cb390b662855"
+
+
 # C extensions
 *.so
 
